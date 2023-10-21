@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chanzaa
+- 👋 Hi, I’m @Chanzaa === "Amirul Nazmi"
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Go,PHP,React,tailwind
 
