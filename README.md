@@ -27,7 +27,6 @@
 
 ![hello](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJ3eXhjZjF4YWloMWpwNzduYTUxcjV6Z2NodXM4MWI4NWZqZ212byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xA9gtnyVDPZJHW/giphy.gif)
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph-dark.svg">
