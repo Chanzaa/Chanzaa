@@ -22,9 +22,7 @@
 
 #### Connect with me 
 
-![https://instagram.com/chann._._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-) ![https://threads.com/chann._._](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white
-)
+![https://instagram.com/chann._._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://threads.com/chann._._](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
 <hr>
 
@@ -33,16 +31,14 @@
 ![hello](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJ3eXhjZjF4YWloMWpwNzduYTUxcjV6Z2NodXM4MWI4NWZqZ212byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xA9gtnyVDPZJHW/giphy.gif)
 
 
-<!-- <picture>
+
+<hr>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph.svg">
-</picture> -->
-###
-
-<img src="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/snake.svg" alt="Snake animation" />
-
-###
+</picture>
 
 
 <hr>
